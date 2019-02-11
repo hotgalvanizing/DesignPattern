@@ -1,4 +1,4 @@
-package chapther1.AboutDuck.Fly;
+package chapther1.Fly;
 
 public class FlyRocketPowered implements FlyBehavior {
     @Override

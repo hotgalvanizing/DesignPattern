@@ -1,7 +1,7 @@
-package chapther1.AboutDuck.Duck;
+package chapther1.Duck;
 
-import chapther1.AboutDuck.Fly.FlyBehavior;
-import chapther1.AboutDuck.Quack.QuackBehavior;
+import chapther1.Fly.FlyBehavior;
+import chapther1.Quack.QuackBehavior;
 
 public abstract class Duck {
 

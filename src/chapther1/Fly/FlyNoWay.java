@@ -1,4 +1,4 @@
-package chapther1.AboutDuck.Fly;
+package chapther1.Fly;
 
 public class FlyNoWay implements FlyBehavior {
     @Override

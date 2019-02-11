@@ -1,7 +1,7 @@
-package chapther1.AboutDuck.Duck;
+package chapther1.Duck;
 
-import chapther1.AboutDuck.Fly.FlyNoWay;
-import chapther1.AboutDuck.Quack.MuteQuack;
+import chapther1.Fly.FlyNoWay;
+import chapther1.Quack.MuteQuack;
 
 public class ModelDuck extends Duck {
     public ModelDuck() {

@@ -1,9 +1,9 @@
-package chapther1.AboutDuck;
+package chapther1;
 
-import chapther1.AboutDuck.Duck.Duck;
-import chapther1.AboutDuck.Duck.MailardDuck;
-import chapther1.AboutDuck.Duck.ModelDuck;
-import chapther1.AboutDuck.Fly.FlyRocketPowered;
+import chapther1.Duck.Duck;
+import chapther1.Duck.MailardDuck;
+import chapther1.Duck.ModelDuck;
+import chapther1.Fly.FlyRocketPowered;
 
 /**
  * 策略模式：

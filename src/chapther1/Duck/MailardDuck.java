@@ -1,7 +1,7 @@
-package chapther1.AboutDuck.Duck;
+package chapther1.Duck;
 
-import chapther1.AboutDuck.Fly.FlyWithWings;
-import chapther1.AboutDuck.Quack.Quack;
+import chapther1.Fly.FlyWithWings;
+import chapther1.Quack.Quack;
 
 public class MailardDuck extends Duck {
 
